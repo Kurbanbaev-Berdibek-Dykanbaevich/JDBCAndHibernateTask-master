@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDBCAndHibernateTask-master.iml" filepath="$PROJECT_DIR$/.idea/JDBCAndHibernateTask-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" filepath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcAndHibernate/jdbcAndHibernate (1) (peaksoft).iml" filepath="$PROJECT_DIR$/jdbcAndHibernate/jdbcAndHibernate (1) (peaksoft).iml" />
+    </modules>
+  </component>
+</project>
